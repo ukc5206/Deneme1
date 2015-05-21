@@ -1,2 +1,2 @@
 # Deneme1
-TestProject1 denemesi
+TestProject1 denemesi ilk branchi oluşturuldu.
